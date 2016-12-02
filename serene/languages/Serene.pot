@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Serene\n"
+"POT-Creation-Date: 2015-02-17 19:00+0300\n"
+"PO-Revision-Date: 2015-02-17 19:02+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:14
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:18 ../comments.php:29
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:19 ../comments.php:30
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Submit a Comment"
+msgstr ""
+
+#: ../content-audio.php:56 ../content-gallery.php:22 ../content-link.php:37
+#: ../content-quote.php:36 ../content.php:55 ../page.php:31
+msgid "Pages"
+msgstr ""
+
+#: ../content-audio.php:63 ../content-gallery.php:29 ../content-link.php:44
+#: ../content-quote.php:43 ../content.php:62 ../page.php:39
+msgid "Edit this post"
+msgstr ""
+
+#: ../content-quote.php:19
+msgid "Read More"
+msgstr ""
+
+#: ../footer.php:11
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: ../functions.php:35
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:44
+msgid "Footer Area #1"
+msgstr ""
+
+#: ../functions.php:53
+msgid "Footer Area #2"
+msgstr ""
+
+#: ../functions.php:62
+msgid "Footer Area #3"
+msgstr ""
+
+#: ../functions.php:80
+msgid "read more"
+msgstr ""
+
+#: ../functions.php:93
+msgid "on"
+msgstr ""
+
+#: ../functions.php:177
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:190
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: ../functions.php:205
+msgid "% Comments"
+msgstr ""
+
+#: ../functions.php:207
+msgid "No Comments"
+msgstr ""
+
+#: ../functions.php:209
+msgid "1 Comment"
+msgstr ""
+
+#: ../functions.php:220
+#, php-format
+msgid "Posted by %1$s in %2$s"
+msgstr ""
+
+#: ../functions.php:243
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:246
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:251
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:260
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:274
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../functions.php:289
+msgid "Theme Settings"
+msgstr ""
+
+#: ../functions.php:301
+msgid "Accent Color"
+msgstr ""
+
+#: ../functions.php:313
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: ../functions.php:325
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: ../functions.php:337
+msgid "Google+ Profile URL"
+msgstr ""
+
+#: ../functions.php:349
+msgid "Display full content of posts on index pages"
+msgstr ""
+
+#: ../functions.php:498
+msgid "Post Settings"
+msgstr ""
+
+#: ../functions.php:499
+msgid "Page Settings"
+msgstr ""
+
+#: ../functions.php:507
+msgid "Dark"
+msgstr ""
+
+#: ../functions.php:508
+msgid "Light"
+msgstr ""
+
+#: ../functions.php:521
+msgid "URL"
+msgstr ""
+
+#: ../functions.php:525
+msgid "Background Color"
+msgstr ""
+
+#: ../functions.php:526
+msgid "Hex Value"
+msgstr ""
+
+#: ../functions.php:528
+msgid "Here you can set a background color for the post."
+msgstr ""
+
+#: ../functions.php:531
+msgid "Post Text Color"
+msgstr ""
+
+#: ../functions.php:545
+msgid "Page Subtitle"
+msgstr ""
+
+#: ../functions.php:665
+msgid "M"
+msgstr ""
+
+#: ../functions.php:666
+msgid "d"
+msgstr ""
+
+#: ../functions.php:668
+msgid "1"
+msgstr ""
+
+#: ../header.php:44
+msgid "Facebook"
+msgstr ""
+
+#: ../header.php:49
+msgid "Twitter"
+msgstr ""
+
+#: ../header.php:54
+msgid "Google+"
+msgstr ""
+
+#: ../includes/navigation.php:18
+msgid "&lt;"
+msgstr ""
+
+#: ../includes/navigation.php:19
+msgid "&gt;"
+msgstr ""
+
+#: ../includes/no-results.php:9
+msgid "No Results Found"
+msgstr ""
+
+#: ../includes/no-results.php:13
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../includes/no-results.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../includes/no-results.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""

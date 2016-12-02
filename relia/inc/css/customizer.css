@@ -1,0 +1,98 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 26, 2015, 11:49:53 AM
+    Author     : zackmitchell
+*/
+
+div#customize-theme-controls {
+    font-family: 'Helvetica', arial, sans-serif;
+}
+
+#form#customize-controls div#customize-info,
+#customize-theme-controls div.accordion-section-content,
+#customize-theme-controls .accordion-section-content {
+    background: none;
+    background-color: #FFF;
+}
+
+#customize-info {
+    margin-bottom: 0 !important;
+} 
+
+.control-section-themes .accordion-section-title {
+    margin: 0;
+}
+
+#customize-theme-controls .control-section > h3.accordion-section-title,
+#customize-theme-controls .control-section:last-of-type > .accordion-section-title {
+    border-color: #91c6c0;
+}
+
+#customize-theme-controls .control-section .accordion-section-title:focus {
+    background: #fff;
+}
+
+#customize-theme-controls .control-section > h3.accordion-section-title::after {
+    color: #91c6c0;
+}
+
+#customize-theme-controls .control-section > h3.accordion-section-title:hover,
+#customize-theme-controls .control-section > h3.accordion-section-title:hover::after {
+    background-color: #91c6c0;
+    color: #fff;
+}
+
+#customize-theme-controls ul.accordion-section-content li.customize-control {
+    border-bottom: thin solid #cccccc;
+    padding: 15px 0;
+}
+
+/*#customize-theme-controls button.change-theme {
+    border: thin solid red;
+}*/
+
+li.customize-control.customize-control-radio input[type="radio"] {
+    margin: -2px 5px 0 0;
+}
+
+.customize-control-color a.wp-color-result {
+    border: thin solid #555;
+    border-radius: 0;
+    height: 30px;
+}
+
+.customize-control-color .wp-color-result:after {
+    background: #fff;
+    -webkit-border-radius: 2px;
+    border-radius: 0;
+    border-left: thin solid #555;
+    color: #555;
+    content: attr(title);
+    display: block;
+    font-size: 11px;
+    line-height: 30px;
+    padding: 0 20px;
+    text-align: center;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    font-weight: 400;
+}
+
+.theme-color{
+    display: block;
+    width: 100%;
+    height: 30px;  
+    margin-top: 5px;
+}
+
+#customize-control-theme_color label {
+    margin-left: 0;
+}
+
+li#customize-control-relia_preset_theme_color label {
+    margin: 5px 0 5px 0;
+}

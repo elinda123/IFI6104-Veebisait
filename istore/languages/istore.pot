@@ -1,0 +1,194 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: istore\n"
+"POT-Creation-Date: 2016-10-19 22:39+0200\n"
+"PO-Revision-Date: 2015-12-14 17:34+0100\n"
+"Last-Translator: Themes4WP <info@themes4wp.com>\n"
+"Language-Team: Themes4WP <info@themes4wp.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib/kirki\n"
+"X-Poedit-SearchPathExcluded-1: inc/class-tgm-plugin-activation.php\n"
+
+#: footer.php:12
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:12
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:14
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: footer.php:14
+msgid "Free WooCommerce WordPress Theme"
+msgstr ""
+
+#: front-page.php:33
+msgid "No products found"
+msgstr ""
+
+#: functions.php:46
+msgid "Header Banner"
+msgstr ""
+
+#: functions.php:47
+msgid "Add your HTML code with your banner."
+msgstr ""
+
+#: lib/custom-config.php:7
+msgid "WooCommerce Homepage Demo"
+msgstr ""
+
+#: lib/custom-config.php:15
+msgid "Enable Demo Homepage?"
+msgstr ""
+
+#: lib/custom-config.php:16
+#, php-format
+msgid ""
+"When the theme is first installed and WooCommerce plugin activated, the "
+"demo mode would be turned on. This will display some sample/example "
+"content to show you how the website can be possibly set up. When you are "
+"comfortable with the theme options, you should turn this off. You can "
+"create your own unique homepage - Check the %s page for more informations."
+msgstr ""
+
+#: lib/custom-config.php:16
+msgid "Theme info"
+msgstr ""
+
+#: lib/custom-config.php:24
+msgid "Homepage Demo Styles"
+msgstr ""
+
+#: lib/custom-config.php:25
+#, php-format
+msgid ""
+"The demo homepage is enabled. You can choose from some predefined layouts "
+"or make your own %s."
+msgstr ""
+
+#: lib/custom-config.php:25
+msgid "custom homepage template"
+msgstr ""
+
+#: lib/custom-config.php:30
+msgid "Layout one"
+msgstr ""
+
+#: lib/custom-config.php:31
+msgid "Layout two"
+msgstr ""
+
+#: lib/custom-config.php:44
+msgid "Homepage top section"
+msgstr ""
+
+#: lib/custom-config.php:45
+msgid ""
+"Enable or disable demo homepage top section with custom image and random "
+"category products."
+msgstr ""
+
+#: lib/custom-config.php:60
+msgid "Banner image"
+msgstr ""
+
+#: lib/custom-config.php:80
+msgid "Banner title"
+msgstr ""
+
+#: lib/custom-config.php:81 template-parts/demo-home-cats.php:3
+msgid "MaxStore"
+msgstr ""
+
+#: lib/custom-config.php:100
+msgid "Banner description"
+msgstr ""
+
+#: lib/custom-config.php:101 template-parts/demo-home-cats.php:4
+msgid "Edit this section in customizer"
+msgstr ""
+
+#: lib/custom-config.php:120
+msgid "Banner url"
+msgstr ""
+
+#: lib/custom-config.php:140
+msgid "Products"
+msgstr ""
+
+#: lib/custom-config.php:142
+msgid ""
+"If you dont see any products or categories on your homepage, you dont have "
+"any products probably. Create some products and categories first."
+msgstr ""
+
+#: lib/custom-config.php:155
+msgid "Need Dummy Products?"
+msgstr ""
+
+#: lib/custom-config.php:157
+#, php-format
+msgid ""
+"When the theme is first installed, you dont have any products probably. "
+"You can easily import dummy products with only few clicks. Check %s "
+"tutorial."
+msgstr ""
+
+#: lib/custom-config.php:157
+msgid "THIS"
+msgstr ""
+
+#: lib/custom-config.php:163
+msgid "Need More Features?"
+msgstr ""
+
+#: lib/custom-config.php:165
+#, php-format
+msgid "Learn more about %s PRO"
+msgstr ""
+
+#: template-part-head.php:17
+msgid "My Account"
+msgstr ""
+
+#: template-part-head.php:19
+msgid "Login / Register"
+msgstr ""
+
+#: template-part-head.php:53
+msgid "Toggle navigation"
+msgstr ""
+
+#: template-parts/demo-home-cats.php:5
+msgid "View More"
+msgstr ""
+
+#: template-parts/demo-layout-one.php:2 template-parts/demo-layout-two.php:2
+msgid "Our categories"
+msgstr ""
+
+#: template-parts/demo-layout-one.php:7 template-parts/demo-layout-two.php:10
+msgid "Recent products"
+msgstr ""
+
+#: template-parts/demo-layout-two.php:6
+msgid "Sale products"
+msgstr ""

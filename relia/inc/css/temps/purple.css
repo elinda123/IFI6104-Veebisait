@@ -1,0 +1,174 @@
+/* FOREGROUNDS -------------------------------------------------------------- */
+a,
+a:hover,
+a:visited,
+cite,
+dl dt,
+var,
+button.dark-btn:hover,
+.search-and-cart i.fa,
+.social-icons i.fa,
+p.header-description,
+.site-footer div.site-info a,
+section.features-section .feature-cta h3,
+.recent-article h5 a:hover,
+p.post-meta a,
+footer.entry-footer a,
+div.nav-links a,
+div.comment-metadata span.edit-link a,
+div#comments div#respond form p.logged-in-as > a,
+.recent-article h5 a,
+a.blog-post-read-more,
+.woocommerce ul.products li.product .price ins,
+.woocommerce .star-rating:before,
+.woocommerce .star-rating span:before,
+div.homepage-page-content div.pagination-links a,
+aside.widget table a,
+aside.widget ul li a,
+a.button.add_to_cart_button:hover,
+aside.widget.woocommerce a.button,
+.woocommerce .woocommerce-message a.button:hover,
+.woocommerce .woocommerce-message:before,
+.woocommerce-pagination ul li,
+.woocommerce .summary p ins span,
+li.product a.added_to_cart,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,
+div#search-form form.search-form input[type="submit"]:hover,
+.relia-callout a.relia-button,
+#relia-contact-form input.relia-button
+{
+    color: #9f6eea;
+}
+
+.woocommerce input[type="submit"],
+.woocommerce button.button,
+nav.woocommerce-breadcrumb a {
+    color: #9f6eea !important;
+}
+
+/* BACKGROUNDS -------------------------------------------------------------- */
+
+ins,
+nav.main-nav,
+ul#primary-menu,
+ul#primary-menu > li > ul,
+footer.entry-footer span.edit-link,
+div.reply a,
+aside.widget table th,
+aside.widget_tag_cloud div.tagcloud a:hover,
+.slicknav_menu, 
+.woocommerce .product .onsale,
+.woocommerce-pagination ul li span.current,
+aside.widget.woocommerce a.button:hover,
+.woocommerce a.remove:hover,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+ul#relia-testimonials .testimonial-author,
+.search h2.entry-title,
+a.apply.secondary-button:hover,
+.recent-article h4,
+.recent-article h5 a:hover,
+.news-item div.date,
+.event-details h2 a,
+.type-event h2.post-title,
+form#relia-contact-form label,
+#relia-contact-form input.relia-button:hover,
+.relia-service .icon-container,
+.relia-callout h3.widget-title,
+.relia-callout a.relia-button:hover,
+.relia-contact-info h2.widget-title,
+.relia-contact-info .row .col-sm-4 > div,
+.relia-pricing-table h2.title,
+.relia-pricing-table span.special,
+h3.contact-form-heading
+{
+    background-color: #9f6eea;
+}
+
+ul.wc-tabs li.active,
+.woocommerce button.button:hover,
+.woocommerce input[type="submit"]:hover {
+    background-color: #9f6eea !important;
+}
+
+/* BORDERS ------------------------------------------------------------------ */
+
+a.apply.secondary-button,
+.recent-article h5 a,
+#relia-contact-form input.relia-button,
+.relia-callout a.relia-button,
+div.homepage-page-content > div.col-sm-4 > div,
+.relia-pricing-table .header,
+kbd, 
+code, 
+pre, 
+tt {
+    border: thin solid #9f6eea;
+}
+
+.woocommerce .woocommerce-message a.button:hover,
+aside.widget.woocommerce a.button,
+div#search-form form.search-form input[type="submit"]:hover,
+p.form-submit input:hover, 
+a.button.add_to_cart_button:hover {
+    border-color: #9f6eea;
+}
+
+.woocommerce button.button {
+    border: 2px solid #9f6eea;
+}
+
+.woocommerce input[type="submit"] {
+    border: 2px solid #9f6eea !important;
+}
+
+.woocommerce-page ul.products li.product img {
+    border-bottom: 7px solid #9f6eea;
+}
+
+ul.wc-tabs:before {
+    border-bottom: 1px solid #9f6eea !important;
+}
+
+.woocommerce .woocommerce-message {
+    border-top-color: #9f6eea;
+}
+
+div.woocommerce table.shop_table tr.cart_item td {
+    border-top: thin solid #9f6eea;
+    border-bottom: thin solid #9f6eea;
+}
+
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button {
+    border: 2px solid #9f6eea;
+}
+
+.woocommerce-tabs ul.wc-tabs li {
+    border: thin solid #9f6eea !important;
+}
+
+h3.faq-title {
+    border-left: 15px solid #9f6eea;
+}
+
+.front-page-content, 
+footer.site-footer,
+section.features-section,
+section.recent-articles-section {
+    border-top: 20px solid #9f6eea;
+}
+
+section.features-section,
+div.col-md-12.hero-banner {
+    border-bottom: 20px solid #9f6eea;
+}
+
+.blog-post-overlay {
+    border-top: 7px solid #9f6eea;
+}
+
+button.dark-btn:hover {
+    border: 3px solid #9f6eea;
+} 
+
