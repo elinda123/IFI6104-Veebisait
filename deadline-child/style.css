@@ -5,3 +5,39 @@ Description:  Deadline Child theme
 Template:     deadline
 Version:      1.0.0
 */
+
+/*-----------------------------
+Making WordPress Contact Form 7 Plugin form responsive and full width with CSS customization
+Add this code snippet to your WordPress theme's style.css file.
+-------------------------------*/
+
+div.wpcf7 .wpcf7-form-control {
+    max-width: 95%;
+}
+
+/* Make Contact Form 7 Select Dropdown field responsive & full width */
+.wpcf7 select { 
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin: 0;
+    padding: 4px;
+    text-indent: 0px;
+    width: 100%;
+    z-index: 100;
+}
+
+/* Make Contact Form 7 text field full width & responsive */
+.wpcf7-text {
+    width: 100%;
+}
+
+/* Some additional CSS customization to the whole Contact Form 7 form */
+div.wpcf7 {
+	background-color: #f5f5f5; /* Adds background color */
+	border: 2px solid #eee; /* Adds a form border */
+	padding:20px 10px 10px 10px;
+	-webkit-border-radius: 4px; /* Making form border rounded */
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
